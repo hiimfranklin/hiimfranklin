@@ -22,7 +22,7 @@ I'm currently diving into the following topics:
 
 ## How to Reach Me
 - 📧 You can reach out to me via email at frankn628@gmail.com.
--
+
 <!---
 hiimfranklin/hiimfranklin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
