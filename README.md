@@ -21,7 +21,7 @@ I'm currently diving into the following topics:
 - R
 
 ## How to Reach Me
-- 📧 You can reach out to me via email at frankn628@gmail.com.
+- 📧 You can reach out to me via chat.
 
 <!---
 hiimfranklin/hiimfranklin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
